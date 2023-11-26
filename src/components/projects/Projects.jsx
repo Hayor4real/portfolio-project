@@ -1,12 +1,7 @@
 import React from "react";
 import Title from "../layouts/Title";
 
-import {
-  projectOne,
-  projectTwo,
-  projectThree,
-  projectFour,
-} from "../../assets/index";
+import { projectOne, projectTwo, projectThree } from "../../assets/index";
 import ProjectsCard from "./ProjectsCard";
 
 const Projects = () => {
@@ -23,22 +18,13 @@ const Projects = () => {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
-          title="CAR BOOKING APPLICATION"
-          des="This is a fully react responsive car rental website design using mordern UI and UX using.
-          Technologies used: 
-          HTML,CSS,ReactJS"
-          src={projectOne}
-          link="https://car-booking-application-germany.onrender.com"
-          github="https://github.com/Hayor4real/car-rental"
-        />
-        <ProjectsCard
           title="React Cohort Dashboard Challenge"
           des="This is dashboard react project that allows users
           1)Users should be able to create a new post.
           2)Users should be able to comment on existing posts
           Technologies used: 
           HTML,CSS,ReactJS"
-          src={projectTwo}
+          src={projectOne}
           link="https://cohort-dashboard-site.netlify.app/"
           github="https://github.com/Hayor4real/react-cohort-dashboard-challenge"
         />
@@ -48,7 +34,7 @@ const Projects = () => {
           Name,Type of brewery, Address, Phone Number
           Technologies used: 
           HTML,CSS,JavaScripts"
-          src={projectThree}
+          src={projectTwo}
           link=""
           github="https://github.com/Hayor4real/js-dom-brewery-tours-challenge"
         />
@@ -60,7 +46,7 @@ const Projects = () => {
           3)A user can create a contact via a form, accessed by clicking a Create a contact menu link
           Technologies used: 
           HTML,CSS,ReactJS"
-          src={projectFour}
+          src={projectThree}
           link="https://address-book-site.netlify.app/"
           github="https://github.com/Hayor4real/react-address-book-part-2"
         />
