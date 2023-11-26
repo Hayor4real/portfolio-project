@@ -7,13 +7,13 @@ This repository contains a professional porfolio using the React Application. Pl
 1. Assets
 2. banner
 3. contact
-4. features
-5. footer
-6. layouts
-7. navbar
-8. projects
-9. resume
-10. constants
+
+4. footer
+5. layouts
+6. navbar
+7. projects
+8. resume
+9. constants
 
 [working Demo](https://akindele-ayorinde-portfolio.netlify.app/)
 

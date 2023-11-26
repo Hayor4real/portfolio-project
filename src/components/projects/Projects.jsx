@@ -35,7 +35,7 @@ const Projects = () => {
           Technologies used: 
           HTML,CSS,JavaScripts"
           src={projectTwo}
-          link=""
+          link="https://hayor4real.github.io/js-dom-brewery-tours-challenge/"
           github="https://github.com/Hayor4real/js-dom-brewery-tours-challenge"
         />
         <ProjectsCard
