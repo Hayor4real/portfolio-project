@@ -15,7 +15,7 @@ This repository contains a professional porfolio using the React Application. Pl
 9. resume
 10. constants
 
-[working Demo](https://verdant-mooncake-d9de86.netlify.app/)
+[working Demo](https://akindele-ayorinde-portfolio.netlify.app/)
 
 [github](https://github.com/Hayor4real/portfolio-project)
 
