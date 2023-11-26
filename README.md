@@ -7,7 +7,6 @@ This repository contains a professional porfolio using the React Application. Pl
 1. Assets
 2. banner
 3. contact
-
 4. footer
 5. layouts
 6. navbar
