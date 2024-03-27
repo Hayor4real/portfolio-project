@@ -13,7 +13,7 @@ import {
 
 const LeftBanner = () => {
   const [text] = useTypewriter({
-    words: [" Coder.", "Frontend Developer.", "Engineer."],
+    words: [" A Coder.", " A Frontend Developer.", " An Engineer."],
     loop: true,
     typeSpeed: 20,
     deleteSpeed: 10,
@@ -30,7 +30,7 @@ const LeftBanner = () => {
           </span>
         </h1>
         <h2 className="text-4xl font-bold text-white">
-          a <span>{text}</span>
+          <span>{text}</span>
           <Cursor
             cursorBlinking="false"
             cursorStyle="|"

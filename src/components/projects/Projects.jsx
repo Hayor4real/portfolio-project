@@ -30,7 +30,10 @@ const Projects = () => {
         />
         <ProjectsCard
           title="ECOMMERCE APPLICATION"
-          des="A fullstack ecommerce application. 
+          des="This is a FullStack ecommerce project
+          Users can search for specific product,
+          browse through, view more info about
+          specific product , add items to cart 
           Technologies used: 
           HTML,CSS,ReactJS,NodeJS,ExpressJS,MongoDB"
           src={projectTwo}
