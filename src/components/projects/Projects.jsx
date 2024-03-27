@@ -19,9 +19,7 @@ const Projects = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
           title="React Cohort Dashboard Challenge"
-          des="This is dashboard react project that allows users
-          1)Users should be able to create a new post.
-          2)Users should be able to comment on existing posts
+          des="This is  a social media app / dashboard react project that allows users to create posts and comment on existing posts
           Technologies used: 
           HTML,CSS,ReactJS"
           src={projectOne}
@@ -31,9 +29,7 @@ const Projects = () => {
         <ProjectsCard
           title="ECOMMERCE APPLICATION"
           des="This is a FullStack ecommerce project
-          Users can search for specific product,
-          browse through, view more info about
-          specific product , add items to cart 
+          Users can search for specific product,browse through, view more info about specific product , add items to cart 
           Technologies used: 
           HTML,CSS,ReactJS,NodeJS,ExpressJS,MongoDB"
           src={projectTwo}
