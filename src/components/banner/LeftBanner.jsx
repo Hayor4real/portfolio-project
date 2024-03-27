@@ -38,11 +38,14 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-          I am a frontend developer/ engineer. I am looking for interesting
-          challenges and opportunities to be a part of part solution and develop
-          digital solutions to everyday problems and can easily pick up and
-          apply new technologies. I enjoy working collaboratively but can also
-          work independently as I am self motivated.
+          Passionate full-stack software developer with an enduring love for
+          programming. Recently graduated from an intensive, six-month boot camp
+          specializing in full-stack development. Proficient in multiple
+          programming languages and adept at both front-end and back-end
+          development. Eager to remain abreast of the latest technological
+          innovations and eager to tackle new challenges. Enthusiastic about
+          refining skills continuously and making meaningful contributions as a
+          junior developer in the ever-evolving tech landscape.
         </p>
       </div>
       <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
@@ -51,11 +54,6 @@ const LeftBanner = () => {
             Find me in
           </h2>
           <div className="flex gap-4">
-            <span className="bannerIcon">
-              <a href="https://www.facebook.com/yellow.ay" target="_blank">
-                <FaFacebookF />
-              </a>
-            </span>
             <span className="bannerIcon">
               <a
                 href="https://github.com/Hayor4real?tab=repositories"
