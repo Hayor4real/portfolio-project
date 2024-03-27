@@ -29,14 +29,13 @@ const Projects = () => {
           github="https://github.com/Hayor4real/react-cohort-dashboard-challenge"
         />
         <ProjectsCard
-          title="Brewery Tours Challenge"
-          des="This is Brewery site that allows users to search .
-          Name,Type of brewery, Address, Phone Number
+          title="ECOMMERCE APPLICATION"
+          des="A fullstack ecommerce application. 
           Technologies used: 
-          HTML,CSS,JavaScripts"
+          HTML,CSS,ReactJS,NodeJS,ExpressJS,MongoDB"
           src={projectTwo}
-          link="https://hayor4real.github.io/js-dom-brewery-tours-challenge/"
-          github="https://github.com/Hayor4real/js-dom-brewery-tours-challenge"
+          link="https://my-ecommerce-application-website.onrender.com"
+          github="https://github.com/Hayor4real/Fullstack-project-1"
         />
         <ProjectsCard
           title=" React Address Book "

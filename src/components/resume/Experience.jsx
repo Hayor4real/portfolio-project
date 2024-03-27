@@ -21,21 +21,37 @@ const Experience = () => {
             title="Software Developer (Training) (August 2023 - March 2024)"
             subTitle="Boolean UK"
             result="United Kingdom"
-            des="Learned the fundamentals of full stack web development with curated exercises and mentoring daily."
+            des="Learned the fundamentals of full-stack web development through
+            curated exercises and daily mentoring.
+            Gained experience with modern web development technologies
+            such as JavaScript, React, Prisma, PostgreSQL and Node.js.
+            Worked collaboratively on real-world projects, improving problem solving and teamwork abilities.
+            Worked collaboratively in a team development simulation exercise
+            for 4 weeks. This was a cohort management application where I had
+            the chance to work on both the front-end and back-end, adding new
+            features by opening and closing tickets within GitHub.
+            Learned industry best practices and coding standards, enhancing
+            code quality and maintainability."
           />
           <ResumeCard
             title="Frontend Engineer(Internship) (April 2023 - June 2023)"
             subTitle="Hyundai Mobis Parts Europe N.V, Zweigniederlassung"
             result="Germany"
-            des="Implement frontend components and services, especially for image segmentation
-            editing"
+            des="Worked in an agile manner with daily stand-ups and bi-weekly
+            sprints Contributed to the development of the UI of Oracle Code
+            Technologies React.js, TypeScript, Redux, Bitbucket, GitLab(CI/CD),
+            JIRA"
           />
           <ResumeCard
             title="UX/UI Design Basics Teaching Assistant(Volunteering)"
             subTitle="ReDi School of Digital Intergration"
             result="Germany"
-            des="Coordinated with the ReDI team to improve the courses and the student and
-            teacher experience."
+            des="Taught the course to groups of students in English
+            Collaborated with a team of volunteer-teachers
+            Coordinated with the ReDI team to improve the courses and the
+            student and teacher experience.
+            Tracked student attendance and progress through the semester.
+            "
           />
 
           <ResumeCard
